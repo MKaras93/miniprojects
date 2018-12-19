@@ -102,4 +102,7 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
+.mypy_cache/1111111111111111111
+
+#big files that can be generated
+test_textfile.txt
